@@ -1,0 +1,4 @@
+application/node_modules
+
+chaincode/node_modules
+network/channel-artifacts
